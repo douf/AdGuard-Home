@@ -1,0 +1,15 @@
+||openai.com^$dnsrewrite=168.138.206.235
+||chatgpt.com^$dnsrewrite=168.138.206.235
+||cdn.auth0.com^$dnsrewrite=168.138.206.235
+||azureedge.net^$dnsrewrite=168.138.206.235
+||azurefd.net^$dnsrewrite=168.138.206.235
+||intercomcdn.com^$dnsrewrite=168.138.206.235
+||intercom.io^$dnsrewrite=168.138.206.235
+||identrust.com^$dnsrewrite=168.138.206.235
+||livekit.cloud^$dnsrewrite=168.138.206.235
+||openai.com.cdn.cloudflare.net^$dnsrewrite=168.138.206.235
+||openaicom.imgix.net^$dnsrewrite=168.138.206.235
+||browser-intake-datadoghq.com^$dnsrewrite=168.138.206.235
+||ai.com^$dnsrewrite=168.138.206.235
+||oaistatic.com^$dnsrewrite=168.138.206.235
+||oaiusercontent.com^$dnsrewrite=168.138.206.235
